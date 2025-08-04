@@ -68,6 +68,11 @@
 - 🧠 **AI-Powered Traffic Management in VANETs** – Adaptive algorithm using RL and SDN APIs.
 
 ---
+### 🧾 Publications
+
+- [BGP Security in Next-Gen Networks](https://example.com/paper-link) – Presented at CNS 2025
+
+---
 
 ### 🔗 Let's Connect
 
