@@ -21,9 +21,7 @@
 - QML
 
 ---
-<!-- GitHub Metrics -->
-<img src="https://raw.githubusercontent.com/Amir-r-zare/Amir-r-zare/main/github-metrics.svg" style="width:100%;">
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amir-r-zare&theme=dracula)
 
 ---
 
