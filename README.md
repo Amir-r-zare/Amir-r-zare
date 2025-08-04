@@ -20,9 +20,9 @@
 
 ### 🎓 Education
 
-- **Ph.D. in Computer Engineering – Computer Networks**  
-  --📍 *Shahid Beheshti University*  
-  --🗓️ *2024 – Present*  
+- **Ph.D. in Computer Engineering – Computer Networks**
+📍 *Shahid Beheshti University*
+🗓️ *2024 – Present*  
   --📊 *GPA: 18.70 / 20*  
   --🔬 *Focus:* Software-Defined Networking (SDN), V2X Communication, Secure Communications
 
