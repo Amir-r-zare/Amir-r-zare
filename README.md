@@ -2,7 +2,7 @@
 <h3 align="center">PhD Student | Computer Networks | Software Engineer | Qt/QML Expert</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Secure+Software+Development;PhD+in+Computer+Engineering;SDN%2C+V2X%2C+5G+Security+Researcher;Qt+%2F+QML+%2F+C%2B%2B+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Ph.D.+Candidate+in+CE+at+SBU;Qt+Developer+%7C+C%2B%2B+%2B+QML+%2B+DSP" alt="Typing SVG" />
 </p>
 
 ---
