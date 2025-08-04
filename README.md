@@ -43,6 +43,7 @@
   <img src="https://streak-stats.demolab.com/?user=Amir-r-zare&theme=radical&hide_border=false" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Amir-r-zare&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
