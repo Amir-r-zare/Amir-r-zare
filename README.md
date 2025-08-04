@@ -70,7 +70,7 @@
 ---
 ### 🧾 Publications
 
-- [BGP Security in Next-Gen Networks](https://example.com/paper-link) – Presented at CNS 2025
+- [Optimization of load balancing]([https://example.com/paper-link](https://dmait.sci-flag.com/article_203335.html)) – Published at 2024
 
 ---
 
