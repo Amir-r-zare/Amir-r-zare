@@ -1,6 +1,8 @@
 # 👋 Hi there, I'm Amirreza Zare
 
 ## 👨‍💻 About Me
+
+####This page was recently added and is currently being edited.
 ----
 
 - 🔭 I’m currently working on: better-counter
@@ -70,6 +72,15 @@
 - Persian
 - English
 
+---
+
+### 📂 Featured Projects
+
+- 🎧 [P2P Voice Chat with WebRTC + Qt](https://github.com/Amir-r-zare/P2PVoiceChat)
+- 🛡️ [Secure Software Project (OWASP-based)](https://github.com/Amir-r-zare/SecureApp)
+- 📶 [5G SDN V2X Research Code (Private Repo)](mailto:amir@example.com?subject=Access%20Request)
+
+---
   
 ## 📫 Contact
 
