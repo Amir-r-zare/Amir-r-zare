@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Amir</h1>
-<h3 align="center">PhD Student | Computer Networks | Software Engineer | Qt/QML Expert</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Ph.D.+Candidate+in+CE+at+SBU;Qt+Developer+%7C+C%2B%2B+%2B+QML+%2B+DSP" alt="Typing SVG" />
