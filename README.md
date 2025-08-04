@@ -4,27 +4,23 @@
 ----
 
 - 🔭 I’m currently working on: better-counter
-- 🌱 I’m currently learning: TypeScript, C++, QML
-- 💬 Ask me about: JavaScript, Python, Web development
-- 📫 How to reach me: m.roohollah.v@gmail.com
+- 🌱 I’m currently learning: C++, QML, Qt, DSP
+- 💬 Ask me about: C++, QT, QML
+- 📫 How to reach me: amrrz.z.1379@gmail.com
 
 ---
 
 ## 💼 Skills
 
 ### Programming Languages
-- JavaScript / TypeScript
+- Java
 - Python
 - C / C++
-- Java
 - QML
-
-### Frameworks & Libraries
-- Node.js, Express
 
 ### Tools & Technologies
 - Git & GitHub
-- PostgreSQL, MongoDB
+- Qt
 
 ---
 
@@ -32,7 +28,7 @@
 
 | Project        | Description                 | Tech Stack  |
 |----------------|-----------------------------|-------------|
-| better-counter | A reminder app with counter | Node.js     |
+| VoiceChat | P2P voice chat | C++     |
 
 ---
 
@@ -45,7 +41,9 @@
 
 ## 🎓 Education
 
-- B.Sc. in Software Engineering – PNU University (2020–2026)
+- Ph.D. in Computer engineering – Shahid Beheshti university (2024 - 2029)
+- Ms.c. in Computer engineering – Tehran Polytechnic (Amirkabir University) (2022-2024)
+- B.Sc. in Computer engineering – Babol Nowshirvani university (2018–2022)
 
 ---
 
@@ -59,4 +57,4 @@
 ## 📫 Contact
 
 - 📧 Email: amrrz.z.1379@gmail.com
-- 🌐 Website: Coming soon
+- 🌐 Website: https://amir-r-zare.github.io
