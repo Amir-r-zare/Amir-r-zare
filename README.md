@@ -18,9 +18,7 @@
 - C / C++
 - QML
 
-### Tools & Technologies
-- Git & GitHub
-- Qt
+
 
 ---
 
@@ -68,6 +66,11 @@
 
 ---
 
+### Languages
+- Persian
+- English
+
+  
 ## 📫 Contact
 
 - 📧 Email: amrrz.z.1379@gmail.com
