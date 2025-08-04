@@ -18,6 +18,25 @@
 
 ---
 
+### 🎓 Education
+
+- **Ph.D. in Computer Engineering -Computer Networks**  
+  📍 *Shahid Beheshti University*  
+  🗓️ *2024 – Present*  
+  🔬 Focus: Software-Defined Networking (SDN), V2X Communication, Secure Communications
+
+- **M.Sc. in Computer Engineering – Computer Networks**  
+  📍 *Amirkabir University(Tehran Polytechnic)*  
+  🗓️ *2022 – 2024*  
+  📜 Thesis: DRL-Based Optimization of Downlink Resource Allocation for Dynamic-Environments User-Centric Cell-Free Massive MIMO in 6G Networks
+
+- **B.Sc. in Computer Engineering**  
+  📍 *Check the effect of feature selections in machine learning techniques to increase the accuracy of heart disease prediction*  
+  🗓️ *2018 – 2022*
+
+
+---
+
 ### 🧰 Tech Stack
 
 #### 💻 Programming
