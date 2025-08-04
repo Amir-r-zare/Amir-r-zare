@@ -26,7 +26,7 @@
   --📊 *GPA: 18.70 / 20*  
   --🔬 *Focus:* Software-Defined Networking (SDN), V2X Communication, Secure Communications
 
----
+
 
 - **M.Sc. in Computer Engineering – Computer Networks**  
   📍 *Amirkabir University (Tehran Polytechnic)*  
@@ -34,7 +34,7 @@
   📊 *GPA: 17.50 / 20*  
   📜 *Thesis:* DRL-Based Optimization of Downlink Resource Allocation for Dynamic-Environments User-Centric Cell-Free Massive MIMO in 6G Networks
 
----
+
 
 - **B.Sc. in Computer Engineering**  
   📍 *Babol Nowshirvani University*  
