@@ -41,20 +41,34 @@ I'm actively developing high-performance Qt applications and conducting research
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats – Advanced
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amir-r-zare&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-r-zare&layout=compact&theme=radical" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Amir-r-zare&show_icons=true&theme=gruvbox&count_private=true" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-r-zare&layout=compact&theme=gruvbox" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Amir-r-zare&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=Amir-r-zare&theme=gruvbox" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amir-r-zare&theme=darkhub&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Amir-r-zare&theme=gruvbox&margin-w=10&row=1&column=7" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amir-r-zare&theme=rogue" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amir-r-zare/Amir-r-zare/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Amir-r-zare/Amir-r-zare/blob/generated/svg/profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <img src="https://github.com/Amir-r-zare/Amir-r-zare/blob/generated/svg/profile-summary-card-output/github_dark/4-pull-requests.svg" />
+</p>
+
 
 ---
 
