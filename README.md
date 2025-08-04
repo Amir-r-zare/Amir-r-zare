@@ -28,19 +28,19 @@
 
 
 
-- **M.Sc. in Computer Engineering – Computer Networks**  
-  --📍 *Amirkabir University (Tehran Polytechnic)*  
-  --🗓️ *2022 – 2024*  
-  --📊 *GPA: 17.50 / 20*  
-  --📜 *Thesis:* DRL-Based Optimization of Downlink Resource Allocation for Dynamic-Environments User-Centric Cell-Free Massive MIMO in 6G Networks
+- **M.Sc. in Computer Engineering – Computer Networks**
+  - 📍 *Amirkabir University (Tehran Polytechnic)*
+  - 🗓️ *2022 – 2024*
+  - 📊 *GPA: 17.50 / 20*
+  - 📜 *Thesis:* DRL-Based Optimization of Downlink Resource Allocation for Dynamic-Environments User-Centric Cell-Free Massive MIMO in 6G Networks
 
 
 
-- **B.Sc. in Computer Engineering**  
-  --📍 *Babol Nowshirvani University*  
-  --🗓️ *2018 – 2022*  
-  --📊 *GPA: 16.75 / 20*  
-  --📜 *Thesis:* Check the Effect of Feature Selections in Machine Learning Techniques to Increase the Accuracy of Heart Disease Prediction
+- **B.Sc. in Computer Engineering**
+  - 📍 *Babol Nowshirvani University*
+  - 🗓️ *2018 – 2022*
+  - 📊 *GPA: 16.75 / 20*
+  - 📜 *Thesis:* Check the Effect of Feature Selections in Machine Learning Techniques to Increase the Accuracy of Heart Disease Prediction
 
 
 
