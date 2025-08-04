@@ -70,7 +70,7 @@
 ---
 ### 🧾 Publications
 
-- [Optimization of load balancing]([https://example.com/paper-link](https://dmait.sci-flag.com/article_203335.html)) – Published at 2024
+- [Optimization of load balancing](https://dmait.sci-flag.com/article_203335.html) – Published at 2024
 
 ---
 
