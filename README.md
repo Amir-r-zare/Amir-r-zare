@@ -72,6 +72,9 @@ I'm actively developing high-performance Qt applications and conducting research
 </p>
 
 
+![snake gif](./github-contribution-grid-snake.svg)
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" />
+
 ---
 
 ## 🔬 Featured Projects
