@@ -34,7 +34,8 @@
 
 ## 📈 GitHub Stats
 
-![Roohollah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir-r-zare&show_icons=true&theme=default)
+![Amir-r-zare's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir-r-zare&show_icons=true&theme=default)
+![Amir-r-zare's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amir-r-zare&show_icons=true&theme=tokyonight&hide_rank=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-r-zare&layout=compact)
 
 ---
