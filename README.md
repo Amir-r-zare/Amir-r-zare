@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Amirreza Zare</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Ph.D.+Candidate+in+Computer+Engineering;Qt+Developer+%7C+C%2B%2B+%2B+QML+%2B+DSP;Secure+Software+Development+%7C+SDN+%2B+V2X+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Ph.D.+Candidate+in+CE;Qt+Developer+%7C+C%2B%2B+%2B+QML+%2B+DSP;Secure+Software+Development+%7C+SDN+%2B+V2X+Researcher" alt="Typing SVG" />
 </p>
 
 ---
