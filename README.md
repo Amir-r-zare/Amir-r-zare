@@ -34,9 +34,20 @@
 
 ## 📈 GitHub Stats
 
-![Amir-r-zare's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir-r-zare&show_icons=true&theme=default)
+
 ![Amir-r-zare's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amir-r-zare&show_icons=true&theme=tokyonight&hide_rank=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-r-zare&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Amir-r-zare&theme=dark&hide_border=false)](https://git.io/streak-stats)
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Amir-r-zare&show_icons=true&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-r-zare&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Amir-r-zare&theme=radical&hide_border=false" />
+</p>
+
 
 ---
 
