@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Amirreza Zare</h1>
 
-<h3> align="center"> This page was recently added and is currently being edited. </h3>
+<h3 align="center"> This page was recently added and is currently being edited. </h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Ph.D.+Candidate+in+CE+at+SBU;Qt+Developer+%7C+C%2B%2B+%2B+QML+%2B+DSP" alt="Typing SVG" />
 </p>
