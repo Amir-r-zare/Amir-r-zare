@@ -36,7 +36,7 @@
 
 
 
-- **B.Sc. in Computer Engineering**
+- **B.Sc. in Computer Engineering - Software**
   - 📍 *Babol Nowshirvani University*
   - 🗓️ *2018 – 2022*
   - 📊 *GPA: 16.75 / 20*
