@@ -20,6 +20,9 @@
 - C / C++
 - QML
 
+---
+<!-- GitHub Metrics -->
+<img src="https://raw.githubusercontent.com/Amir-r-zare/Amir-r-zare/main/github-metrics.svg" style="width:100%;">
 
 
 ---
