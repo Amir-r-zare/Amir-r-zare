@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-####This page was recently added and is currently being edited.
+#### This page was recently added and is currently being edited.
 ----
 
 - 🔭 I’m currently working on: better-counter
