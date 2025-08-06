@@ -10,11 +10,10 @@
 
 ### 🔬 About Me
 
-- 🔭 I’m currently working on **secure and scalable V2X-SDN architectures**.
-- 🧠 Passionate about **network protocols, secure software design, and system-level development**.
-- 🧪 Active researcher in **cryptography, protocol analysis, and adaptive networking**.
+- 🔭 I’m currently working on **Learning C++ and QML**.
+- 🧪 Active researcher in **Wireless networks, mMIMO, 6G, V2X, SDN**.
 - 🧑‍🏫 Teaching **Advanced Computer Networks** at university level.
-- 📍 Based in Germany | 🗣 Persian 🇮🇷 + English 🇬🇧
+- 📍 Based in IRAN | 🗣 Persian 🇮🇷 + English 🇬🇧
 
 ---
 
