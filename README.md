@@ -57,7 +57,7 @@
 #### 📱 UI & App Dev
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![QML](https://img.shields.io/badge/QML-FFD700?style=for-the-badge&logo=qt&logoColor=black)
-![QMake](https://img.shields.io/badge/QMake-064F8C?style=for-the-badge&logo=qmake&logoColor=white)
+![QMake](https://img.shields.io/badge/QMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
 #### 🌐 Networking & Security
