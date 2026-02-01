@@ -10,10 +10,9 @@
 
 ### 🔬 About Me
 
-- 🔭 I’m currently working on **Learning C++ and QML**.
-- 🧪 Active researcher in **Wireless networks, mMIMO, 6G, V2X, SDN**.
-- 🧑‍🏫 Teaching **Advanced Computer Networks** at university level.
-- 📍 Based in IRAN | 🗣 Persian 🇮🇷 + English 🇬🇧
+- I’m Ph.D. Student in Computer Engineerin At Shahid Beheshti University (Iran, Tehran)
+- currently working in Software Developer Position
+- Active researcher in **Wireless networks, mMIMO, 6G, V2X, SDN and Autonomous vehicles**
 
 ---
 
@@ -22,8 +21,8 @@
 - **Ph.D. in Computer Engineering – Computer Networks**
   - 📍 *Shahid Beheshti University*
   - 🗓️ *2024 – Present*
-  - 📊 *GPA: 18.70 / 20*
-  - 🔬 *Focus:* Software-Defined Networking (SDN), V2X Communication, Secure Communications
+  - 📊 *GPA: 18.5 / 20*
+  - 🔬 *Focus:* Software-Defined Networking (SDN), V2X Communication, Secure Communications and Reliable networks in Autonomous vehicles
 
 
 
@@ -38,7 +37,7 @@
 - **B.Sc. in Computer Engineering - Software**
   - 📍 *Babol Nowshirvani University*
   - 🗓️ *2018 – 2022*
-  - 📊 *GPA: 16.75 / 20*
+  - 📊 *GPA: 16.8 / 20*
   - 📜 *Thesis:* Check the Effect of Feature Selections in Machine Learning Techniques to Increase the Accuracy of Heart Disease Prediction
 
 
