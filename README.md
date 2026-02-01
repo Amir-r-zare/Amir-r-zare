@@ -52,7 +52,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Qmake]([https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL3JT_2pMp30uD9bjaOYxsiupOQZk2GY8Jkg&s))
 
 
 #### 📱 UI & App Dev
@@ -69,9 +68,7 @@
 
 ### 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amir-r-zare&show_icons=true&theme=dark&hide_title=false&hide_rank=false&count_private=true" alt="GitHub Stats" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-r-zare&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
