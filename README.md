@@ -94,6 +94,10 @@
 ### 🧾 Publications
 
 - [Optimization of load balancing](https://dmait.sci-flag.com/article_203335.html) – Published at 2024
+- [DRL-Based Optimization of Downlink Resource Allocation for Dynamic-Environments User-Centric Cell-Free Massive MIMO in 6G Networks](https://link.springer.com/journal/11276) – Submitted at 2024
+
+
+
 
 ---
 
