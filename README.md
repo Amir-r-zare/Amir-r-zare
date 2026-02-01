@@ -86,9 +86,8 @@
 
 ### 📂 Featured Projects
 
-- 🔐 **Secure V2X Architecture over SDN** – Research prototype focused on intelligent routing and attack resilience.
-- 🧰 **Qt Audio Toolkit** – Live voice streaming using Qt/C++, with real-time waveform visualization and WebRTC integration.
-- 🧠 **AI-Powered Traffic Management in VANETs** – Adaptive algorithm using RL and SDN APIs.
+- 🔐 **Design Secure and Reliable network model for SDN-Based Autonomous vehicles 
+- 🧰 **Getting more advanced in Qt, QML
 
 ---
 ### 🧾 Publications
@@ -103,7 +102,7 @@
   <a href="https://www.linkedin.com/in/amir-r-zare/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:amir.r.zare@gmail.com" target="_blank">
+  <a href="mailto:amrrz.z.1379@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/Amir-r-zare" target="_blank">
@@ -121,10 +120,8 @@
 
 ### ⚙️ Currently Learning
 
-- 📘 Deep dive into **eBPF for network observability**
-- 🕵️ Penetration testing automation tools
-- 📡 Edge-computing & real-time vehicular communication
+- General learning about Autonomous vehicles
+- Learning about Reliable networks
+
 
 ---
-
-**⭐ اگر این پروفایل برات مفید بود، حتماً ستارش کن!** 😊
